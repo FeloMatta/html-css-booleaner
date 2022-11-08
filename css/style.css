@@ -1,7 +1,10 @@
+/* STILIZZAZIONE HEADER */
 header{
+    height: 100px;
+
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
-    height: 60px;
+    background-size: 20%
 }
 
 #main-logo{
@@ -9,3 +12,5 @@ header{
     margin-top: 50px;
     margin-left: 10px;
 }
+
+/* STILIZZAZIONE MAIN */
