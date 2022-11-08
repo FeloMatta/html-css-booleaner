@@ -14,3 +14,20 @@ header{
 }
 
 /* STILIZZAZIONE MAIN */
+h1{
+    /* font-size: 24px */
+    font-size: 3em;
+}
+
+.small-size{
+    font-size: 11px;
+}
+
+.gray-text{
+    color: #bbbbbb;
+}
+
+#author-link{
+    color:#20a9e5;
+    text-decoration: none;
+}
